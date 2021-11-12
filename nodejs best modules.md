@@ -6,7 +6,7 @@ According to [nodejs mysql] drivers race winner is mysql2 (https://medium.com/ep
 but mysql requires 8 depencies, mariasql 2 (nan, lru-cache) 
 * [Mysql](https://www.npmjs.com/package/mysql)  doesnt understrand promises, callback hell yea
 * [Mysql2]
-* [Knex]
+* [Knex] depends on mysql or mysql2 but it supports PostgreSQL, MySQL, CockroachDB, MSSQL, SQLite3, Oracle
 
 ### CMS's
 * [keystonejs](keystonejs.com) 683MB
