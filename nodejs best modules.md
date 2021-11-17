@@ -12,3 +12,8 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 * [keystonejs](keystonejs.com) 683MB
 * [strapi](strapi) 832MB for both frontend and backend
 * ghost
+
+
+### nodejs fileupload
+* [multer] adds 22 packages, works automatically, hard to control name of file.  uses busyboy. 
+* [busboy] adds 3 packages, you bind to it
