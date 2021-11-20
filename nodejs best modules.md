@@ -17,3 +17,9 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 ### nodejs fileupload
 * [multer] adds 22 packages, works automatically, hard to control name of file.  uses busyboy. 
 * [busboy] adds 3 packages, you bind to it
+
+
+### nodejs requests
+* [request](https://www.npmjs.com/package/request) has been depreccated
+* https.request is variant
+* [axios] has only redirect depency
