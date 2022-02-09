@@ -7,3 +7,6 @@
 
 ## HTML Editors 
 * [Kind Editor](https://github.com/kindsoft/kindeditor)
+## Carousels
+* [embla-carousel](https://www.embla-carousel.com/examples/navigation/)
+* [keen-slider](https://keen-slider.io/examples#examples)
