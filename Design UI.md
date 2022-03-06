@@ -8,6 +8,12 @@
 
 ## HTML Editors 
 * [Kind Editor](https://github.com/kindsoft/kindeditor)
+
+
 ## Carousels
 * [embla-carousel](https://www.embla-carousel.com/examples/navigation/)
 * [keen-slider](https://keen-slider.io/examples#examples)
+
+
+## Icon/Font
+* [14k icons](https://github.com/x64Bits/solid-icons) (https://solid-icons-web.vercel.app/search/happy)
