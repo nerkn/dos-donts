@@ -1,1 +1,7 @@
 
+
+sudo npm install -g node-gyp
+
+./node_modules/.bin/build-opencv build
+
+./node_modules/.bin/opencv-build-npm
