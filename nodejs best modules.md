@@ -12,6 +12,7 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 * [keystonejs](keystonejs.com) 683MB
 * [strapi](strapi) 832MB for both frontend and backend
 * ghost
+* [redwoodjs](https://redwoodjs.com/docs/introduction) 1.2GB, requires node v14 ( currently 18) trouble working (1 and half day) frontend under docker but api (prismajs) working under port 8911
 
 
 ### nodejs fileupload
