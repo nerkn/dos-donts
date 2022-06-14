@@ -14,6 +14,7 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 * ghost
 * [redwoodjs](https://redwoodjs.com/docs/introduction) 1.2GB, requires node v14 ( current node v is 18) trouble working (1 and half day) frontend under docker but api (prismajs) working under port 8911
 * [remix.run](https://remix.run/) Using npm and prisma, none feedback/interaction you click, it hangs as then after 1~2 sec (mysql server is not near) loads content.
+* [hydrogen](https://shopify.dev/api/hydrogen) shopify's react framework, looks promising, will try
 
 
 ### nodejs fileupload
