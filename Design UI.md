@@ -4,6 +4,7 @@
 * [Undraw](https://undraw.co/illustrations) svg drawings
 * [Daisy UI](https://daisyui.com/) Tailwind css components
 * [material-ui](https://mui.com) material-ui, React component library we always wanted
+* [mantine](https://ui.mantine.dev/category/headers) React, you neeed to write so much style, no template is ready to use.
 
 ## Css Frameworks
 
