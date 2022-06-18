@@ -17,6 +17,10 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 * [hydrogen](https://shopify.dev/api/hydrogen) shopify's react framework, looks promising, will try
 
 
+### SERVER SIDE FRAMEWORKS
+* express if like a knife, you should carve everything
+* nestjs ?
+
 ### nodejs fileupload
 * [multer] adds 22 packages, works automatically, hard to control name of file.  uses busyboy. 
 * [busboy] adds 3 packages, you bind to it
