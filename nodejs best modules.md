@@ -7,6 +7,8 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 * [Mysql](https://www.npmjs.com/package/mysql)  doesnt understrand promises, callback hell yea
 * [Mysql2]
 * [Knex] depends on mysql or mysql2 but it supports PostgreSQL, MySQL, CockroachDB, MSSQL, SQLite3, Oracle
+* [prisma](https://github.com/prisma/prisma) nextjs is using this library, I think its like a good virus that should/will replace existing libs
+
 
 ### CMS's
 * [keystonejs](keystonejs.com) 683MB
