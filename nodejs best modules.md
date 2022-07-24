@@ -11,6 +11,7 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 
 
 ### CMS's
+* [payloadCms](https://github.com/payloadcms/payload) 480MB, early development, dont obey config file, (I needed 3302 port but it starts at 3000), and return notting (yarn run dev) or 404 error (yarn build then yarn serve)
 * [keystonejs](keystonejs.com) 683MB
 * [strapi](strapi) 832MB for both frontend and backend
 * ghost
