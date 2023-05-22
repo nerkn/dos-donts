@@ -1,5 +1,14 @@
 # Framework should provide
 
+
+# Start Project docker
+When starting projects I dont want to install anything, so I spin up docker container and inside I start
+```
+docker run -v $(pwd)/customerReports:/app -w /app -p:5055:5055 -it  node bash
+```
+
+
+
 # NPM packages 
 ### Mysql packages
 According to [nodejs mysql] drivers race winner is mysql2 (https://medium.com/epycly/node-js-mysql-driver-benchmarks-2018-86579c402016)
