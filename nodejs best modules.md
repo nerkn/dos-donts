@@ -1,12 +1,6 @@
 # Framework should provide
 
 
-# Start Project docker
-When starting projects I dont want to install anything, so I spin up docker container and inside I start
-```
-docker run -v $(pwd)/customerReports:/app -w /app -p:5055:5055 -it  node bash
-```
-
 
 
 # NPM packages 
@@ -42,3 +36,12 @@ but mysql requires 8 depencies, mariasql 2 (nan, lru-cache)
 * [request](https://www.npmjs.com/package/request) has been depreccated
 * https.request is variant
 * [axios] has only redirect depency
+
+### Docker
+* [lazyDocker](https://github.com/jesseduffield/lazydocker) easy way to see running pods in docker-compose
+*  Start Project docker
+When starting projects I dont want to install anything, so I spin up docker container and inside I start
+```
+docker run -v $(pwd)/customerReports:/app -w /app -p:5055:5055 -it  node bash
+```
+
