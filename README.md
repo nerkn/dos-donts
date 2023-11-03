@@ -7,3 +7,10 @@ worst/best modules & practices while developing app
 
 Services
 * [Uppy](https://uppy.io/examples/dashboard/) file uploader
+
+#self note
+refuse any flutter dev, gradle  still downloading something, it's been 30mins.
+
+8GB of cache ate, but I opened another folder in this project and still doing something.
+
+It's not about developing, its about waiting, hey maven, hey gradle
