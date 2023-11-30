@@ -1,0 +1,16 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Box 1: Booking -->
+  <rect width="90" height="60" x="10" y="20" fill="#87CEEB" stroke="#000" stroke-width="2"></rect>
+  <text x="35" y="55" font-family="Arial" font-size="14" fill="#000">Booking</text>
+
+  <!-- Box 2: Service -->
+  <rect width="90" height="60" x="110" y="20" fill="#FFD700" stroke="#000" stroke-width="2"></rect>
+  <text x="145" y="55" font-family="Arial" font-size="14" fill="#000">Service</text>
+
+
+  <line x1="90" y1="50" x2="100" y2="50" stroke="#000" stroke-width="2">
+    <animate attributeName="x1" values="90;105;90" dur="4s" repeatCount="indefinite"></animate>
+    <animate attributeName="x2" values="120;105;120" dur="4s" repeatCount="indefinite" begin="2s"></animate>
+  </line>
+
+</svg>
