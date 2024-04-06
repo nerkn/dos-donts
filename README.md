@@ -5,6 +5,13 @@ worst/best modules & practices while developing app
 * [Nodejs best modules](nodejs%20best%20modules.md) In 10 years much has changed in Javascript but most modules are aging without proper maintanence/philosophical change 
 * [Programming Languages](Programming%20Languages.md) Comparing and searching suitable programming lang.
 
+
+#Benchmarks to follow
+
+*  [nginx busybox, apache](https://github.com/nerkn/nginx-busybox-apache) tested on Docker images, in short in 10second Nginx 45K, Apache 35k, busybox 31k 
+*  [Techem Power Backend Benchmark](https://www.techempower.com/benchmarks/#hw=ph&test=composite&section=data-r22 ) server language/frameworks
+
+
 Services
 * [Uppy](https://uppy.io/examples/dashboard/) file uploader
 
