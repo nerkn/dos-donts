@@ -1,4 +1,4 @@
-# dos-donts
+# Do`s-donts
 worst/best modules & practices while developing app
 * [Low code Backend](/nocode_lowcode_backend.md) I'm old to write auth, connections, dto's etc. There are many tools, Its just a research tools
 * [Design UI](Design%20UI.md) 
@@ -6,16 +6,18 @@ worst/best modules & practices while developing app
 * [Programming Languages](Programming%20Languages.md) Comparing and searching suitable programming lang.
 
 
-#Benchmarks to follow
+* [Cloudflare Databases](https://erkintek.blogspot.com/2024/02/cloudflare-databases.html) KV = Redis, KV	Key-value	Redis, R2= Mongo, D1=	SQLite, Pub/Sub	=	RabbitMQ, Queues= 	RabbitMQ, Vectorize=VectorDb
+Services
+* [Uppy](https://uppy.io/examples/dashboard/) file uploader
+
+
+# Benchmarks to follow
 
 *  [nginx busybox, apache](https://github.com/nerkn/nginx-busybox-apache) tested on Docker images, in short in 10second Nginx 45K, Apache 35k, busybox 31k 
 *  [Techem Power Backend Benchmark](https://www.techempower.com/benchmarks/#hw=ph&test=composite&section=data-r22 ) server language/frameworks
 
-
-Services
-* [Uppy](https://uppy.io/examples/dashboard/) file uploader
-
-#self note
+   
+# self note
 refuse any flutter dev, gradle  still downloading something, it's been 30mins.
 
 8GB of cache ate, but I opened another folder in this project and still doing something.
