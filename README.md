@@ -16,7 +16,12 @@ Services
 *  [nginx busybox, apache](https://github.com/nerkn/nginx-busybox-apache) tested on Docker images, in short in 10second Nginx 45K, Apache 35k, busybox 31k 
 *  [Techem Power Backend Benchmark](https://www.techempower.com/benchmarks/#hw=ph&test=composite&section=data-r22 ) server language/frameworks
 
-   
+
+md alternative
+https://docs.asciidoctor.org/asciidoc/latest/document-structure/
+
+
+
 # self note
 refuse any flutter dev, gradle  still downloading something, it's been 30mins.
 
