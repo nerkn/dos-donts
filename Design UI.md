@@ -21,6 +21,12 @@
 * https://github.com/themesberg/flowbite
 * [tabulator](http://tabulator.info/) makes Tables
 * [md alternative](https://docs.asciidoctor.org/asciidoc/latest/document-structure/)
+* [@remirror/react](https://pkg-size.dev/@remirror%2Freact) 120MB
+* [@tinymce/tinymce-react@5.1.1] (https://pkg-size.dev/@tinymce/tinymce-react@5.1.1) 15MB
+* [tinymce@%5E7](https://pkg-size.dev/tinymce@%5E7) 9MB
+* [remirror](https://pkg-size.dev/remirror%20@remirror/react%20@remirror/pm) 150MB
+
+  
 
 
 ## Carousels
