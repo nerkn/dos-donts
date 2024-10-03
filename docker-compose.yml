@@ -23,5 +23,7 @@ services:
     #    target: /dev/shm
     #    tmpfs:
     #      size: 134217728 # 128*2^20 bytes = 128Mb
+    volumes:
+      - ./postgresData:/var/lib/postgresql/data
     environment:
       POSTGRES_PASSWORD: example
