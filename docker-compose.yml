@@ -1,0 +1,27 @@
+#example docker-compose to remember weird usages
+version: '3.5'
+
+services:
+  bep:
+    image: node:20-alpine
+    ports:
+      - "8980:8000"
+    entrypoint: ["sh", "-c", " yarn run build && yarn run start:prod"]
+#    entrypoint: ["yarn", "start:dev"]
+#    entrypoint: ["yarn", "install"]
+    volumes:
+      - ./thisApp:/app
+    working_dir: /app
+  db:
+    image: postgres
+    restart: always
+    # set shared memory limit when using docker-compose
+    shm_size: 128mb
+    # or set shared memory limit when deploy via swarm stack
+    #volumes:
+    #  - type: tmpfs
+    #    target: /dev/shm
+    #    tmpfs:
+    #      size: 134217728 # 128*2^20 bytes = 128Mb
+    environment:
+      POSTGRES_PASSWORD: example
